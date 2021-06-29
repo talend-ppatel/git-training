@@ -8,6 +8,10 @@
   <packaging>pom</packaging>
   <name>TOMCAT_TEST Codes Master</name>
   <url>http://www.talend.org/</url>
+  <modules>
+    <module>code/beans</module>
+    <module>code/routines</module>
+  </modules>
   <properties>
     <signer.version>7.2.1</signer.version>
     <talend.project.name>TOMCAT_TEST</talend.project.name>
